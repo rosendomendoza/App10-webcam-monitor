@@ -2,7 +2,7 @@ import glob
 import os
 import time
 from datetime import datetime
-import cv2
+import cv2 # open_cv2 library
 from emailing import send_email
 import shutil
 from threading import Thread
